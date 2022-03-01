@@ -16,4 +16,6 @@ git pull -
 
 git add - add files to be pushed
 
+git commit -m "commit message"
+
 git push - 

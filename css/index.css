@@ -1,6 +1,17 @@
+.header {
+    width: 800px;
+    height: 20px;
+}
+
 .body {
-    width: 600px;
-    height: 1000px;
+    width: 800px;
+    height: 600px;
+}
+
+.center-content {
+    width: 50%;
+    height: 50%;
+    display: flex;
 }
 
 .left {
@@ -18,9 +29,23 @@
 .login {
     background-color: green;
     height: 70%;
+    display: flex;
+    justify-content: center;
+}
+
+.login-menu {
+    background-color: white;
+    width: 70%;
+    height: 50%;
+    
 }
 
 .description {
     background-color: yellow;
     height: 30%;
+}
+
+.footer {
+    background-color: pink;
+    height: 50px;
 }
