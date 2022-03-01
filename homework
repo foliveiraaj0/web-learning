@@ -4,10 +4,14 @@
  - cd Repositorios
  - git clone <repo name>
 
-3 - check files -DONE
+3 - check files -> DONE
 
 4 - try to implement Facebook page
 
-5 - Understand all possible CSS display configurations
+5 - Understand CSS display configurations:
+ - block
+ - inline
+ - inline-block
+ - flex
 
 
