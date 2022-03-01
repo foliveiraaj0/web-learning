@@ -1,0 +1,19 @@
+** General Commands **
+
+ls - show all files in a folder
+
+cd - go to a folder
+
+cd .. - go back from the current folder
+
+** Git Commands **
+
+git clone - 
+
+git status - show current modifications
+
+git pull - 
+
+git add - add files to be pushed
+
+git push - 

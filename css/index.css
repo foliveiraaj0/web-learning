@@ -1,0 +1,26 @@
+.body {
+    width: 600px;
+    height: 1000px;
+}
+
+.left {
+    background-color: red;
+    width: 50%;
+    height: 100%;
+}
+
+.right {
+    background-color: blue;
+    width: 50%;
+    height: 100%;
+}
+
+.login {
+    background-color: green;
+    height: 70%;
+}
+
+.description {
+    background-color: yellow;
+    height: 30%;
+}
