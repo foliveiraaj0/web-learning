@@ -1,17 +1,8 @@
-1 - install git on pc -> DONE
+1 - install git on pc - DONE
 
-2 - clone repo -> DONE
+2 - clone repo
  - cd Repositorios
  - git clone <repo name>
 
-3 - check files -> DONE
-
-4 - try to implement Facebook page
-
-5 - Understand CSS display configurations:
- - block
- - inline
- - inline-block
- - flex
-
+3 - check files
 
